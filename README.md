@@ -62,7 +62,8 @@
 - [36.IntelliJ IDEA 的 Java 热部署插件 JRebel 安装及使用](jrebel-setup.md)
 - [37.IntelliJ IDEA 远程调试（Tomcat+Jetty）](remote-debugging.md)
 - [38.最特殊的快捷键 Alt + Enter 介绍（新用户必看）](hotkey-alt-enter-introduce.md)
-- [39.本教程总结](this-tutorial-the-end.md)
+- [39.IntelliJ IDEA 插件开发视频教程](plugins-develop.md)
+- [40.本教程总结](this-tutorial-the-end.md)
 
 
 ## 联系(Contact)
@@ -111,3 +112,10 @@
 |classloader|<https://github.com/classloader>|
 |challengeof|<https://github.com/challengeof>|
 |district10|<https://github.com/district10>|
+|duanluan|<https://github.com/duanluan>|
+|binarywang|<https://github.com/binarywang>|
+|chenhui7373|<https://github.com/chenhui7373>|
+
+## AD
+
+- [我个人开发的个性化定制网址导航：GitNavi.com](http://www.gitnavi.com)
